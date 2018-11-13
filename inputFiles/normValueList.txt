@@ -1,0 +1,7 @@
+%norm value relations
+%Norm title, related node in a value tree with positive or negative effect, violation, continued by actions that considered as violttion of the norm
+%PS: norm title have to be an action title for now.
+Organize free event,+SELFDIRECTION,+UNIVERSALISM,-POWER,violation,Organize commercial event
+Organize commercial event,+POWER,+SELFDIRECTION,violation,Organize free event
+Donate nothing,+POWER,+SELFDIRECTION,-UNIVERSALISM,violation,Donate to council
+Donate to council,+TRADITION,+UNIVERSALISM,-POWER,violation,Donate nothing
